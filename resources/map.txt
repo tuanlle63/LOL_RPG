@@ -1,0 +1,4 @@
+2
+Demacia/4/The Great City of Demacia,city,Seat of power for the noble houses/High Silvermere,city,Highland City/Fossbarrow,town,Haunted Town/Uwendeale,town,Farming Town
+Noxus/4/The Immortal Bastion,city,Sprawling capital of noxus/The Delvehold,fotress,Mountain Fortess/Basilich,city,Port City/Trevale,town,Farming Community
+

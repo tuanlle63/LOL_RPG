@@ -1,0 +1,4 @@
+3
+Garen,66,4.5,0,0,36,3,32.1,1.25,616.3,84.25,0,0,Decisive Strike,30,0,0,Courge,0,0,0,Judgment,14,0,0,Demacian Justice,120,0,0
+Fiora,68,3.3,0,0,33,3.5,32.1,1.25,550,85,300,40,Lunge,70,0,20,Riposte,0,110,30,Bladework,50,0,15,Grand Challenge,120,20,100
+Katarina,58,3.2,12,3.4,27.88,3.5,32.1,1.25,602,94,0,0,Bouncing Blade,0,75,0,Preparation,0,50,0,Shunpo,0,30,0,Death Lotus,20,130,0
